@@ -1,0 +1,7 @@
+pytest==7.3.1
+sqlalchemy==2.0.15
+six==1.16.0
+bitarray==2.7.4
+thrift==0.16.0
+thrift-sasl==0.4.3
+unittest2==1.1.0
